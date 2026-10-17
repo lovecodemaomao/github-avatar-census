@@ -1,0 +1,117 @@
+{
+  "2008-2012": {
+    "selected": 300,
+    "classified": 300,
+    "known": 294,
+    "uncertain": 6,
+    "anime": 8,
+    "anime_pct": 2.7210884353741496,
+    "broad_anime_character": 23,
+    "broad_pct": 7.8231292517006805,
+    "ci_low": 1.3851176352518195,
+    "ci_high": 5.276678433531051,
+    "labels": {
+      "human": 196,
+      "anime": 8,
+      "character": 15,
+      "default_abstract": 31,
+      "animal": 15,
+      "illustration": 14,
+      "meme": 9,
+      "logo": 6,
+      "uncertain": 6
+    }
+  },
+  "2013-2016": {
+    "selected": 300,
+    "classified": 300,
+    "known": 287,
+    "uncertain": 13,
+    "anime": 23,
+    "anime_pct": 8.013937282229966,
+    "broad_anime_character": 42,
+    "broad_pct": 14.634146341463415,
+    "ci_low": 5.399204039979702,
+    "ci_high": 11.737821750003574,
+    "labels": {
+      "logo": 9,
+      "uncertain": 13,
+      "human": 147,
+      "illustration": 16,
+      "meme": 12,
+      "default_abstract": 46,
+      "animal": 15,
+      "anime": 23,
+      "character": 19
+    }
+  },
+  "2017-2020": {
+    "selected": 300,
+    "classified": 300,
+    "known": 285,
+    "uncertain": 15,
+    "anime": 24,
+    "anime_pct": 8.421052631578947,
+    "broad_anime_character": 44,
+    "broad_pct": 15.43859649122807,
+    "ci_low": 5.724027427158969,
+    "ci_high": 12.224079770696187,
+    "labels": {
+      "default_abstract": 75,
+      "human": 117,
+      "animal": 18,
+      "meme": 9,
+      "anime": 24,
+      "logo": 8,
+      "character": 20,
+      "uncertain": 15,
+      "illustration": 14
+    }
+  },
+  "2021-2023": {
+    "selected": 300,
+    "classified": 300,
+    "known": 293,
+    "uncertain": 7,
+    "anime": 27,
+    "anime_pct": 9.215017064846416,
+    "broad_anime_character": 54,
+    "broad_pct": 18.43003412969283,
+    "ci_low": 6.410372911363006,
+    "ci_high": 13.075305645820357,
+    "labels": {
+      "human": 104,
+      "logo": 16,
+      "default_abstract": 89,
+      "meme": 4,
+      "anime": 27,
+      "animal": 14,
+      "character": 27,
+      "illustration": 12,
+      "uncertain": 7
+    }
+  },
+  "2024-2026": {
+    "selected": 300,
+    "classified": 300,
+    "known": 297,
+    "uncertain": 3,
+    "anime": 33,
+    "anime_pct": 11.11111111111111,
+    "broad_anime_character": 54,
+    "broad_pct": 18.181818181818183,
+    "ci_low": 8.021832861404397,
+    "ci_high": 15.19357351856433,
+    "labels": {
+      "default_abstract": 139,
+      "human": 66,
+      "uncertain": 3,
+      "illustration": 7,
+      "animal": 15,
+      "anime": 33,
+      "character": 21,
+      "logo": 6,
+      "meme": 10
+    }
+  }
+}
